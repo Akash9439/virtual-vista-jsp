@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\20bctd33\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1493280002.index
+\virtual vista\src\main\java
+D:\20bctd33\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1162721329.index
+\virtual vista\src\main\java
+D:\20bctd33\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3496053676.index
+\virtual vista\src\main\java
